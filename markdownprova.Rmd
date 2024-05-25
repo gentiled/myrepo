@@ -2,7 +2,9 @@
 title: "Untitled"
 author: "Davide Gentile"
 date: "2024-05-25"
-output: github_document
+output:
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
